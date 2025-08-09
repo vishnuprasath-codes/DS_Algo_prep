@@ -1,8 +1,8 @@
 # 📊  Progress Dashboard — Master Data Structures and Algorithms 
 
-_Tracking my journey through the Curious Freaks DSA course (Java-focused)._
+_Tracking my DS-Algo preparation journey through Java — solving problems with clean and optimized solutions._
 
-**Overall Progress:** 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+**Overall Progress:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
 
 ---
 
