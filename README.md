@@ -2,7 +2,8 @@
 # 📊 DSA Progress Dashboard — Master Data Structures and Algorithms 1.0
 
 _Tracking my journey through the Curious Freaks DSA course (Java-focused)._  
-**Overall Progress:** ![Progress](https://progress-bar.dev/5)
+**Overall Progress:** ![Progress](https://raw.githubusercontent.com/username/repo/main/assets/progress70.png)
+
 
 ---
 
