@@ -31,7 +31,7 @@ _Tracking my journey through the Curious Freaks DSA course (Java-focused)._
 | Week 9 - Two Pointer & Sliding Window       | 0         | 8     | ![Progress](https://progress-bar.dev/0) |
 | **Week 10 - Trees Base Patterns**            | 0         | 24    | ![Progress](https://progress-bar.dev/0) |
 | **Week 11 - Tree Advanced**                  | 0         | 17    | ![Progress](https://progress-bar.dev/0) |
-| Week 11 - Backtracking                      | 0         | 19    | ![Progress](https://progress-bar.dev/0) |
+| Week 12 - Backtracking                      | 0         | 19    | ![Progress](https://progress-bar.dev/0) |
 | Core Subjects Revision                      | 0         | 4     | ![Progress](https://progress-bar.dev/0) |
 
 ---
