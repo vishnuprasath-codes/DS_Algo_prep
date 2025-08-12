@@ -1,8 +1,5 @@
 /*
-*
-**
-***
-****
+* ** *** **** 
 */
 public class pattern{
     public static void main(String[] args){
@@ -11,7 +8,7 @@ public class pattern{
             for(int j=1;j<=i;j++){
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.print(" ");
         }  
     }
 }
