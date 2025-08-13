@@ -11,7 +11,7 @@ _Tracking my DS-Algo preparation journey through Java — solving problems with 
 | Week & Module                              | Problems | Solved | Progress             |
 |--------------------------------------------|----------|--------|----------------------|
 | **Week 1 - Programming Basics**            | 7       | 7     | ✅ |
-| **Week 2 - Basic Patterns**                 | 16       | 0      | ❌ |
+| **Week 2 - Basic Patterns**                 | 19       | 14      | ❌ |
 | Week 2 - Mathematical concepts             | 5        | 0      | ❌ |
 | **Week 3 - OOPS Basics**                    | 1        | 0      | ❌  |
 | Week 3 - Mathematical concepts             | 16       | 0      |  ❌ |
