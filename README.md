@@ -2,7 +2,7 @@
 
 _Tracking my DS-Algo preparation journey through Java — solving problems with clean and optimized solutions._
 
-**🚀Overall Progress:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
+**🚀Overall Progress:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
 
 ---
 
