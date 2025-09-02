@@ -1,4 +1,4 @@
-//5.DIVISORS OF A NUMBER
+//5.DIVISORS OF A NUMBER->https://www.geeksforgeeks.org/problems/number-of-divisors1631/1?
 // User function Template for Java
 class Solution {
     static int countDivisors(int n) {
