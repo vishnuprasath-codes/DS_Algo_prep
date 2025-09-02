@@ -1,4 +1,4 @@
-//3.FACTORIAL
+//3.FACTORIAL->https://www.geeksforgeeks.org/problems/factorial5739/1
 class Solution {
     static int factorial(int n) {
         // Initialize factorial result as 1
