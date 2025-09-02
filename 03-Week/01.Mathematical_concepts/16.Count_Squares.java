@@ -1,4 +1,4 @@
-//16.COUNT SQRT
+//16.COUNT SQRT->https://www.geeksforgeeks.org/problems/count-squares3649/1
 class Solution {
     static int countSquares(int n) {
         // The number of integers k such that k^2 < n
