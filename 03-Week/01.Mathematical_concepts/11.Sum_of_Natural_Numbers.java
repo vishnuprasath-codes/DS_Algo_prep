@@ -1,4 +1,4 @@
-//11.SUM OF NATURAL NUMBERS
+//11.SUM OF NATURAL NUMBERS->https://www.geeksforgeeks.org/problems/sum-of-series2811/1
 class Solution {
     public static int findSum(int n) {
         // Initialize sum variable to store the result
