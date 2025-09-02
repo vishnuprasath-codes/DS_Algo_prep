@@ -1,4 +1,4 @@
-//8.NTH NUMBER
+//8.NTH NUMBER->https://www.geeksforgeeks.org/problems/find-n-th-term-of-series-1-3-6-10-15-215506/1
 class Solution {
     // Method to find the Nth term in the series (sum of first n natural numbers)
     static int findNthTerm(int n) {
