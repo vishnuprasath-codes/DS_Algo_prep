@@ -1,4 +1,4 @@
-//12.SUM OF CUBE OF NATURAL NUMBERS
+//12.SUM OF CUBE OF NATURAL NUMBERS->https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1
 // User function Template for Java
 
 class Solution {
