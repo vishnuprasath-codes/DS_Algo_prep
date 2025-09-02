@@ -1,4 +1,4 @@
-//6.GCD
+//6.GCD->https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 class Solution {
     public static int gcd(int a, int b) {
         // GCD using Euclidean Algorithm
