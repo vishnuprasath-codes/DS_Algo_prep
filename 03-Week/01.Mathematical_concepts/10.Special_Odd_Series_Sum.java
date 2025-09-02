@@ -1,4 +1,4 @@
-//10. ODD SPECIAL SERIES
+//10. ODD SPECIAL SERIES->https://www.geeksforgeeks.org/problems/special-odd-series-sum1235/1
 // User function Template for Java
 class Solution {
     static long sumOfTheSeries(long n) {
