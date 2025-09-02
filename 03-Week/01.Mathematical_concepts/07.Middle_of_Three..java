@@ -1,4 +1,4 @@
-//7.MIDDLE OF THREE
+//7.MIDDLE OF THREE->https://www.geeksforgeeks.org/problems/middle-of-three2926/1
 // User function Template for Java
 
 class Solution {
