@@ -1,4 +1,4 @@
-//4.CHECK PRIME NUMBER
+//4.CHECK PRIME NUMBER->https://www.geeksforgeeks.org/problems/prime-number2314/1
 class Solution {
     static boolean isPrime(int n) {
         // Prime numbers must be greater than 1
