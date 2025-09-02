@@ -13,10 +13,10 @@ _Tracking my DS-Algo preparation journey through Java — solving problems with 
 | **Week 1 - Programming Basics**            | 7       | 7     | ✅ |
 | **Week 2 - Basic Patterns**                 | 14       | 14      | ✅ |
 | Week 2 - Mathematical concepts             | 3        | 3      | ✅ |
-| **Week 3 - OOPS Basics**                    | 1        | 0      | ❌  |
-| Week 3 - Mathematical concepts             | 16       | 0      |  ❌ |
-| Week 3 - Array Introduction                | 7        | 0      |  ❌ |
-| Week 3 - OOPS & Collections                 | 2        | 0      | ❌ |
+| **Week 3 - OOPS Basics**                    | Theory   | done      | ✅  |
+| Week 3 - Mathematical concepts             | 16       | 16      |  ✅ |
+| Week 3 - Array Introduction                | 1        | 1      |  ✅ |
+| Week 3 - OOPS & Collections                 | Theory  | 0      | ❌ |
 | **Week 4 - Array Basic Problems**           | 12       | 0      |  ❌ |
 | Week 4 - Recursion                         | 11       | 0      | ❌ |
 | Week 4 - Sorting Algorithms Basics          | 2        | 0      |  ❌ |
