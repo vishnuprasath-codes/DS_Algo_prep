@@ -1,4 +1,4 @@
-//14.SQUARE DIFFERENCE
+//14.SQUARE DIFFERENCE->https://www.geeksforgeeks.org/problems/squares-difference0939/1
 class Solution {
     static long squaresDiff(int N) {
         // Initialize variables
