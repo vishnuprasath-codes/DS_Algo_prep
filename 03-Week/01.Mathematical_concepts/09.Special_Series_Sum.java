@@ -1,4 +1,4 @@
-//9.SPECIAL SERIES
+//9.SPECIAL SERIES->https://www.geeksforgeeks.org/problems/special-series-sum0903/1
 // User function Template for Java
 class Solution {
     static long sumOfTheSeries(long n) {
