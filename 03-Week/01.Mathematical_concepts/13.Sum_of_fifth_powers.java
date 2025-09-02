@@ -1,4 +1,4 @@
-//13.NATURAL NUMBERS POWER OF 5
+//13.NATURAL NUMBERS POWER OF 5->https://www.geeksforgeeks.org/problems/sum-of-fifth-powers-of-the-first-n-natural-numbers3415/1
 class Solution {
     long sumOfFifthPowers(long N) {
         // Initialize sum to 0 (this will hold the final result)
