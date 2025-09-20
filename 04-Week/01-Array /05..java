@@ -1,20 +1,26 @@
+
+
+import javafx.util.Pair; // Import Pair class
+
 class Solution {
     public Pair<Integer, Integer> getMinMax(int[] arr) {
         // Initialize min and max with the first element of the array
         int maximum = arr[0];
         int minimum = arr[0];
 
-        // Linear search for min and max values
-        for (int i = 1; i < arr.length; i++) {   // start from 1 since arr[0] is already set
+        // Traverse the entire array to find min and max
+        for (int i = 0; i < arr.length; i++) {
+            // If current element is greater than maximum, update maximum
             if (arr[i] > maximum) {
-                maximum = arr[i]; // update maximum
+                maximum = arr[i];
             }
+            // If current element is smaller than minimum, update minimum
             if (arr[i] < minimum) {
-                minimum = arr[i]; // update minimum
+                minimum = arr[i];
             }
         }
 
-        // Return min and max as a Pair object
+        // Return the result as a Pair object: (min, max)
         return new Pair<>(minimum, maximum);
     }
 }
